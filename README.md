@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @the-flying-cow
 - 👀 I’m interested in programming,swimming and photography
 - 🌱 I’m currently learning python and machine learning
-- 💞️ I’m looking to collaborate on projects based on AI/ML
+- 💞️ I’m looking to collaborate on projects based on python and AI/ML
 - 📫 How to reach me - Instagram: _theflyingcow_
 
 <!---
