@@ -1,7 +1,7 @@
 - 👋 Hi, I’m the-flying-cow
 - 👀 I'm passionate about machine learning and adept in Python, C++, and C programming. Beyond coding, I enjoy swimming and have a keen eye for photography.
-- 🌱 "I'm currently diving into Data Analysis with Python and Python Automation for Operating systems. I'm also building a portfolio website to showcase my skills while mastering Vim.
-- 💞️ I’m looking to collaborate on projects based on Python and ML.
+- 🌱 I'm currently diving into Data Analysis with Python and Python Automation for Operating systems. I'm also building a portfolio website to showcase my skills while mastering Vim.
+- 💞️ I’m looking to collaborate and learn concepts regarding projects based on Python and ML.
 - 📫 How to reach me - LinkedIn : anantsingh99 , Instagram: _theflyingcow_ 
 
 <!---
