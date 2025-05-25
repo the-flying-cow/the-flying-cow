@@ -7,7 +7,7 @@
   -⚙️ Strong knowledge of C for system-level programming and low-level algorithm design
   -☕ Basic knowledge of Java, currently sharpening my object-oriented programming and app development skills
   -🧠 Familiar with both supervised and unsupervised ML algorithms, from model training to evaluation and deployment
-  -🔧 Experienced with Git & GitHub for version control, team collaboration, and CI/CD practices
+  -🔧 Experienced with Git & GitHub for version control, team collaboration
   -🧪 Comfortable using Python to build testing and automation tools for streamlining development workflows
   
 -🌱 Currently diving deeper into Python, Vim, and advanced ML concepts to level up my workflow and project capabilities.
