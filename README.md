@@ -10,7 +10,7 @@
   -🔧 Experienced with Git & GitHub for version control, team collaboration
   -🧪 Comfortable using Python to build testing and automation tools for streamlining development workflows
   
--🌱 Currently diving deeper into Python, Vim, and advanced ML concepts to level up my workflow and project capabilities.
+-🌱 Currently diving deeper into Python, and advanced ML concepts to level up my workflow and project capabilities.
 
 -📸 Outside of tech, I enjoy swimming and have a creative streak for photography.
 
