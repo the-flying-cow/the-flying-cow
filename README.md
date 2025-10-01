@@ -1,7 +1,7 @@
 👋 Hi, I’m Anant!
-- INTERESTS: ML, Data Science
+- INTERESTS: ML, GenAI, Data Science
 - LANGUAGES: C, Python
-- LIBRARIES / FRAMEWORKS: Numpy, Pandas, Scikit-Learn, Tkinter
+- LIBRARIES / FRAMEWORKS: Numpy, Pandas, Scikit-Learn, Langchain
 - i do like a bit of swimming tooo🏊
 
 - 📫 How to reach me - LinkedIn : anantsingh99 , Instagram: _theflyingcow_
