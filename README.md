@@ -1,4 +1,4 @@
-Hey! I’m a computer science student in close to my final year of engineering, really into data science and machine learning.
+Hey! I’m a computer science student close to my final year of engineering, really into data science and machine learning.
 Most days you’ll find me tweaking ML models, learning cool stuff about data insights, or diving into GenAI — especially agent systems (those things are wild 🤖).
 
 When I’m not coding, I’m probably gaming or swimming to reset my brain. 🕹️🏊‍♂️
