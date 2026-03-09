@@ -48,7 +48,14 @@ Focused on building practical machine learning projects, improving model perform
 
 ---
 
-### 3. MedBot (RAG-based Medical Assistant) |
+### 3. Edge ML comparative study |
+
+- Comparing model performance via inferencing on Arduino R3
+- Trained a LogisticRegression and DecisionTree model locally
+- Exported model parameters and hardcoded decision thresholds for inferencing
+- Conducted comparative study, analyzing outputs and resource utilization for both models
+
+### 4. MedBot (RAG-based Medical Assistant) |
 
 - Built a **Retrieval-Augmented Generation (RAG)** system
 - Tech stack: **LangChain, FAISS, HuggingFace, FastAPI**
