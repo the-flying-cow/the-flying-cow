@@ -28,7 +28,16 @@ Focused on building practical machine learning projects, improving model perform
 
 ## Featured Projects
 
-### 1. Email Spam Classification |
+### 1. Edge ML comparative study |
+
+- Comparing model performance via inferencing on Arduino R3
+- Trained a LogisticRegression and DecisionTree model locally
+- Exported model parameters and hardcoded decision thresholds for inferencing
+- Conducted comparative study, analyzing outputs and resource utilization for both models
+- 
+---
+
+### 2. Email Spam Classification |
 
 - Built a text classification system using **Logistic Regression** and **SVM**
 - Implemented **TF-IDF** for text vectorization and preprocessing
@@ -39,23 +48,7 @@ Focused on building practical machine learning projects, improving model perform
 
 ---
 
-### 2. Customer Churn Prediction |
-
-- Developed a **Random Forest** classification model
-- Applied **SMOTE** to handle class imbalance
-- Achieved **79% accuracy**
-- Complete pipeline: data preprocessing → feature engineering → model evaluation
-
----
-
-### 3. Edge ML comparative study |
-
-- Comparing model performance via inferencing on Arduino R3
-- Trained a LogisticRegression and DecisionTree model locally
-- Exported model parameters and hardcoded decision thresholds for inferencing
-- Conducted comparative study, analyzing outputs and resource utilization for both models
-
-### 4. MedBot (RAG-based Medical Assistant) |
+### 3. MedBot (RAG-based Medical Assistant) |
 
 - Built a **Retrieval-Augmented Generation (RAG)** system
 - Tech stack: **LangChain, FAISS, HuggingFace, FastAPI**
