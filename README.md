@@ -28,16 +28,23 @@ Focused on building practical machine learning projects, improving model perform
 
 ## Featured Projects
 
-### 1. Edge ML comparative study |
+### 1. CompanyLens |
+- AI-driven research assistant designed to prepare candidates for interviews
+- Multi-agent orchestration to generate research notes
+- Uses MCP tools and Google APIs to store notes and schedule preparation reminder in calendar
+- Provides strategies to improve preparation and ace interviews
+- Clean and distraction-free UI
+---
+
+### 2. Edge ML comparative study |
 
 - Comparing model performance via inferencing on Arduino R3
 - Trained a LogisticRegression and DecisionTree model locally
 - Exported model parameters and hardcoded decision thresholds for inferencing
 - Conducted comparative study, analyzing outputs and resource utilization for both models
-- 
 ---
 
-### 2. Email Spam Classification |
+### 3. Email Spam Classification |
 
 - Built a text classification system using **Logistic Regression** and **SVM**
 - Implemented **TF-IDF** for text vectorization and preprocessing
@@ -48,7 +55,7 @@ Focused on building practical machine learning projects, improving model perform
 
 ---
 
-### 3. MedBot (RAG-based Medical Assistant) |
+### 4. MedBot (RAG-based Medical Assistant) |
 
 - Built a **Retrieval-Augmented Generation (RAG)** system
 - Tech stack: **LangChain, FAISS, HuggingFace, FastAPI**
