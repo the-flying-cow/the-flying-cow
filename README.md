@@ -48,9 +48,8 @@ Focused on building practical machine learning projects, improving model perform
 
 - Built a text classification system using **Logistic Regression** and **SVM**
 - Implemented **TF-IDF** for text vectorization and preprocessing
-- Performed metric-driven tuning:
-  - Optimized **F1-score** for SVM
-  - Optimized **Precision** for Logistic Regression
+- Optimized **F1-score** for SVM and Logistic Regression
+- SVM outperformed Logistic Regression with a higher F1 score (0.621 vs 0.561)
 - Analyzed model trade-offs for real-world spam detection scenarios
 
 ---
