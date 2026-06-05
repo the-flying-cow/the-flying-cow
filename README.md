@@ -38,7 +38,7 @@ Focused on building practical machine learning projects, improving model perform
 
 ### 2. Email Spam Classification |
 
-- Combined LGBM, CatBoost, and Logistic Regression **(Stacked Classifier)** to achieve a **0.73 F1-score**.
+- Combined LGBM, CatBoost, and Logistic Regression building a **(Stacked Classifier)** to achieve a **0.73 F1-score**.
 - Extracted text lengths, word counts, punctuation densities, and URL/digit detection.
 - Integrated **TF-IDF pipelines** with uppercase ratios and reply/forward behavioral flags.
 - Built end-to-end training workflows and deployed a real-time Gradio interface.
