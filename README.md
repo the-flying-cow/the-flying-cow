@@ -36,25 +36,16 @@ Focused on building practical machine learning projects, improving model perform
 - Clean and distraction-free UI
 ---
 
-### 2. Edge ML comparative study |
+### 2. Email Spam Classification |
 
-- Comparing model performance via inferencing on Arduino R3
-- Trained a LogisticRegression and DecisionTree model locally
-- Exported model parameters and hardcoded decision thresholds for inferencing
-- Conducted comparative study, analyzing outputs and resource utilization for both models
----
-
-### 3. Email Spam Classification |
-
-- Built a text classification system using **Logistic Regression** and **SVM**
-- Implemented **TF-IDF** for text vectorization and preprocessing
-- Optimized **F1-score** for SVM and Logistic Regression
-- SVM outperformed Logistic Regression with a higher F1 score (0.621 vs 0.561)
-- Analyzed model trade-offs for real-world spam detection scenarios
+- Combined LGBM, CatBoost, and Logistic Regression **(Stacked Classifier)** to achieve a **0.73 F1-score**.
+- Extracted text lengths, word counts, punctuation densities, and URL/digit detection.
+- Integrated **TF-IDF pipelines** with uppercase ratios and reply/forward behavioral flags.
+- Built end-to-end training workflows and deployed a real-time Gradio interface.
 
 ---
 
-### 4. MedBot (RAG-based Medical Assistant) |
+### 3. MedBot (RAG-based Medical Assistant) |
 
 - Built a **Retrieval-Augmented Generation (RAG)** system
 - Tech stack: **LangChain, FAISS, HuggingFace, FastAPI**
