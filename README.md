@@ -5,8 +5,6 @@ Focused on building practical machine learning projects, improving model perform
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Supervised-green)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?logo=github&logoColor=white)](https://ai-portfolio-dun-delta.vercel.app/)
 
-![Streak](https://streak-stats.demolab.com?user=the-flying-cow)
-
 ## Tech Stack
 
 **Languages**  
