@@ -1,28 +1,27 @@
 Pre final-year Computer Science student with a strong interest in Machine Learning and Artificial Intelligence.
 Focused on building practical machine learning projects, improving model performance, and exploring modern AI technologies including Generative AI and intelligent systems.
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Supervised-green)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?logo=github&logoColor=white)](https://ai-portfolio-dun-delta.vercel.app/)
 
 ## Tech Stack
 
 **Languages**  
-![Python](https://img.shields.io/badge/Python-grey?logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-grey?logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white)
 
 **Machine Learning**  
-![NumPy](https://img.shields.io/badge/NumPy-grey?logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-grey?logo=pandas)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-white?logo=scikit-learn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-white?logo=tensorflow)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 **Data Visualization**  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-lightblue)
-![Seaborn](https://img.shields.io/badge/Seaborn-lightblue)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white&size=40x40)
 
 **Tools**  
-![Git](https://img.shields.io/badge/Git-grey?logo=git)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ## Featured Projects
 
