@@ -33,8 +33,14 @@ Focused on building practical machine learning projects, improving model perform
 - Clean and distraction-free UI
 ---
 
-### 2. Email Spam Classification |
+### 2. FIFA-ML |
+- Football match prediction using historical team ranking and match results.
+- Feature engineered ranking values, rolling form performance.
+- Predicts binary outcome: win or loss
 
+---
+
+### 3. Email Spam Classification |
 - Combined LGBM, CatBoost, and Logistic Regression building a **(Stacked Classifier)** to achieve a **0.73 F1-score**.
 - Extracted text lengths, word counts, punctuation densities, and URL/digit detection.
 - Integrated **TF-IDF pipelines** with uppercase ratios and reply/forward behavioral flags.
@@ -42,8 +48,7 @@ Focused on building practical machine learning projects, improving model perform
 
 ---
 
-### 3. MedBot (RAG-based Medical Assistant) |
-
+### 4. MedBot (RAG-based Medical Assistant) |
 - Built a **Retrieval-Augmented Generation (RAG)** system
 - Tech stack: **LangChain, FAISS, HuggingFace, FastAPI**
 - Integrated with an **Android frontend**
