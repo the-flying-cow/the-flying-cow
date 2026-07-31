@@ -1,4 +1,4 @@
-Pre final-year Computer Science student with a strong interest in Machine Learning and Artificial Intelligence.
+Fnal-year Computer Science student with a strong interest in Machine Learning and Artificial Intelligence.
 Focused on building practical machine learning projects, improving model performance, and exploring modern AI technologies including Generative AI and intelligent systems.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?logo=github&logoColor=white)](https://ai-portfolio-dun-delta.vercel.app/)
