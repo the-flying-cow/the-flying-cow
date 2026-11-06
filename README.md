@@ -1,66 +1,20 @@
-Final-year Computer Science student with a strong interest in Machine Learning and Artificial Intelligence.
-Focused on building practical machine learning projects, improving model performance, and exploring modern AI technologies including Generative AI and intelligent systems.
+# Hi, I'm Anant
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?logo=github&logoColor=white)](https://ai-portfolio-dun-delta.vercel.app/)
+I'm a final-year Computer Science student interested in machine learning and AI. I enjoy building practical projects and exploring how these technologies can solve real problems.
 
-## Tech Stack
+## Selected projects
 
-**Languages**  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white)
+- [Small Language Model](https://github.com/the-flying-cow/slm) — A decoder-only language model built with PyTorch.
+- [CompanyLens](https://github.com/the-flying-cow/company-lens) — An AI research assistant for interview preparation.
+- [CRISPR Off-Target Analysis](https://github.com/the-flying-cow/crispr-ops) — Exploring how common genetic variants affect CRISPR off-target scoring.
+- [Email Spam Classification](https://github.com/the-flying-cow/Email-Spam-classification) — Spam detection using feature engineering and a stacked classifier.
 
-**Machine Learning**  
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+## Technologies
 
-**Data Visualization**  
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python)
-![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white&size=40x40)
+Python · PyTorch · scikit-learn · FastAPI
 
-**Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+## Find me
 
-## Featured Projects
-
-### 1. CompanyLens |
-- AI-driven research assistant designed to prepare candidates for interviews
-- Multi-agent orchestration to generate research notes
-- Uses MCP tools and Google APIs to store notes and schedule preparation reminder in calendar
-- Provides strategies to improve preparation and ace interviews
-- Clean and distraction-free UI
----
-
-### 2. FIFA-ML |
-- Football match prediction using historical team ranking and match results.
-- Feature engineered ranking values, rolling form performance.
-- Predicts binary outcome: win or loss
-
----
-
-### 3. Email Spam Classification |
-- Combined LGBM, CatBoost, and Logistic Regression building a **(Stacked Classifier)** to achieve a **0.73 F1-score**.
-- Extracted text lengths, word counts, punctuation densities, and URL/digit detection.
-- Integrated **TF-IDF pipelines** with uppercase ratios and reply/forward behavioral flags.
-- Built end-to-end training workflows and deployed a real-time Gradio interface.
-
----
-
-### 4. MedBot (RAG-based Medical Assistant) |
-- Built a **Retrieval-Augmented Generation (RAG)** system
-- Tech stack: **LangChain, FAISS, HuggingFace, FastAPI**
-- Integrated with an **Android frontend**
-- Delivered context-aware medical responses using trusted knowledge sources
-
-
-## Connect
-- LinkedIn: www.linkedin.com/in/anantsingh99
-- Email: anant07singh2004@gmail.com
-- Portfolio: https://ai-portfolio-dun-delta.vercel.app/
-
-<!---
-the-flying-cow/the-flying-cow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- [Portfolio](https://ai-portfolio-dun-delta.vercel.app/)
+- [LinkedIn](https://www.linkedin.com/in/anantsingh99)
+- [Email](mailto:anant07singh2004@gmail.com)
