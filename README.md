@@ -2,7 +2,7 @@
 
 Computer Science student interested in machine learning engineering. I build ML and AI projects, from model training and evaluation to useful applications, and enjoy understanding concepts from the ground up.
 
-## Selected projects
+## What I've been working on
 
 - [Small Language Model](https://github.com/the-flying-cow/slm) — A decoder-only language model built with PyTorch.
 - [CompanyLens](https://github.com/the-flying-cow/company-lens) — An AI research assistant for interview preparation.
