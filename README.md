@@ -4,11 +4,11 @@ Computer Science student interested in machine learning engineering. I build ML 
 
 ## What I've been working on
 
-- [d_Blogger](https://github.com/the-flying-cow/d_Blogger) — An n8n workflow that turns queued blog topics into researched, edited Google Docs using Ollama, SerpApi, and Google Sheets.
-- [Small Language Model](https://github.com/the-flying-cow/slm) — A decoder-only language model built with PyTorch.
-- [CompanyLens](https://github.com/the-flying-cow/company-lens) — An AI research assistant for interview preparation.
-- [CRISPR Off-Target Analysis](https://github.com/the-flying-cow/crispr-ops) — Analyzing how common genetic variants affect CRISPR off-target scoring.
-- [Email Spam Classification](https://github.com/the-flying-cow/Email-Spam-classification) — Spam detection using feature engineering and stacked classification.
+- [d_Blogger](https://github.com/the-flying-cow/d_Blogger): An n8n workflow that turns queued blog topics into researched, edited Google Docs using Ollama, SerpApi, and Google Sheets.
+- [Small Language Model](https://github.com/the-flying-cow/slm): A decoder-only language model built with PyTorch.
+- [CompanyLens](https://github.com/the-flying-cow/company-lens): An AI research assistant for interview preparation.
+- [CRISPR Off-Target Analysis](https://github.com/the-flying-cow/crispr-ops): Analyzing how common genetic variants affect CRISPR off-target scoring.
+- [Email Spam Classification](https://github.com/the-flying-cow/Email-Spam-classification): Spam detection using feature engineering and stacked classification.
 
 ## Connect
 
