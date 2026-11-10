@@ -1,9 +1,10 @@
 # Hi, I'm Anant
 
-Computer Science student interested in machine learning engineering. I build ML and AI projects, from model training and evaluation to useful applications, and enjoy understanding concepts from the ground up.
+Computer Science student interested in machine learning engineering. I build ML and AI projects, from model training and evaluation to useful applications, and enjoy understanding concepts from the ground up, with a strong focus on practical implementations.
 
 ## What I've been working on
 
+- [d_Blogger](https://github.com/the-flying-cow/d_Blogger) — A blogging platform for efficient content creation and publishing.
 - [Small Language Model](https://github.com/the-flying-cow/slm) — A decoder-only language model built with PyTorch.
 - [CompanyLens](https://github.com/the-flying-cow/company-lens) — An AI research assistant for interview preparation.
 - [CRISPR Off-Target Analysis](https://github.com/the-flying-cow/crispr-ops) — Analyzing how common genetic variants affect CRISPR off-target scoring.
